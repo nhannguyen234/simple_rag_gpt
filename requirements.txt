@@ -1,0 +1,7 @@
+openai==1.51.2
+langchain==0.3.3
+langchain-openai==0.2.2
+langchain-chroma==0.1.4
+pandas==2.2.3
+fastapi==1.2.2
+uvicorn==4.12.2
